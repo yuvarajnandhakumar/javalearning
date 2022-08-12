@@ -9,7 +9,7 @@ public abstract class AbsClass {  // syntax: public abstract class classname
 		int x=20;
 		int y=30;
 		int z=x-y;
-		System.out.println(z);
+		System.out.println(z+"sdd of two value");
 	}
 	
 	public abstract void mul();
