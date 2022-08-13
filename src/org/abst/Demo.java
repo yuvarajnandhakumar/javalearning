@@ -17,7 +17,7 @@ public class Demo implements FirstInterface, SecondInterface{
 	
 	public static void sss1()
 	{
-		System.out.println(y);
+		System.out.println(y+"hi");
 		int z=10;
 	}
 	
