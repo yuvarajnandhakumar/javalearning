@@ -12,7 +12,7 @@ public class Demo implements FirstInterface, SecondInterface{
 	
 	public void sss()
 	{
-		System.out.println(x);
+		System.out.println(x +"hi");
 	}
 	
 	public static void sss1()
